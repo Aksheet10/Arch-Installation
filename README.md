@@ -39,6 +39,7 @@ The command I used to install arch in Virtual Box with XFCE4 and VirtualBox-Gues
 `systemctl enable NetworkManager`
 
 `exit`
+
 `reboot`
 
 now boot in the existing os option 
