@@ -64,3 +64,7 @@ Install VirtualBox guest utils
 `sudo pacman -Sy virtualbox-guest-utils`
 
 `sudo systemctl enable vboxservice.service`
+
+`reboot`
+
+Boot in the OS. Now you can have full screen.
