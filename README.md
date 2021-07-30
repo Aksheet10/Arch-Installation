@@ -33,7 +33,7 @@ The command I used to install arch in Virtual Box with XFCE4 and VirtualBox-Gues
 
 `grub-mkconfig -o /boot/grub/grub.cfg`
 
-# Fix Network 
+Fix Network
 
 `pacman -S networkmanager`
 
