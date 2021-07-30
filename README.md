@@ -42,6 +42,7 @@ Fix Network
 To install XFCE desktop environment
 
 `sudo pacman -S xorg xfce4 xfce4-goodies lightdm lightdm-gtk-greeter`
+
 	enter 
 	enter
 	enter
