@@ -39,15 +39,7 @@ Fix Network
 
 `systemctl enable NetworkManager`
 
-`exit`
-
-`reboot`
-
-now boot in the existing os option 
-
----
-
-In the os to install xfce4 desktop
+To install XFCE desktop environment
 
 `sudo pacman -S xorg xfce4 xfce4-goodies lightdm lightdm-gtk-greeter`
 	enter 
@@ -57,7 +49,13 @@ In the os to install xfce4 desktop
   
 `sudo systemctl enable lightdm`
 
+`exit`
+
+`reboot`
+
 ---
+
+Now boot into the existing OS
 
 Install VirtualBox guest utils
 
