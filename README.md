@@ -36,6 +36,7 @@ The command I used to install arch in Virtual Box with XFCE4 and VirtualBox-Gues
 # Fix Network 
 
 `pacman -S networkmanager`
+
 `systemctl enable NetworkManager`
 
 `exit`
@@ -61,4 +62,5 @@ In the os to install xfce4 desktop
 Install VirtualBox guest utils
 
 `sudo pacman -Sy virtualbox-guest-utils`
+
 `sudo systemctl enable vboxservice.service`
