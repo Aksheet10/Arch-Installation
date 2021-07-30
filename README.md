@@ -24,7 +24,7 @@ The command I used to install arch in Virtual Box with XFCE4 and VirtualBox-Gues
 
 `arch-chroot /mnt`
 
-`timedatectl set-timezone Europe/Paris`
+`timedatectl set-timezone Asia/Kolkata`
 
 
 `pacman -S grub`
